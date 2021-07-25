@@ -1,1 +1,1 @@
-# A-B_testi
+A/B Testi, pazarlamada sizi rakiplerinizin önüne geçirip başarılı kılacak bir testtir. A/B testi farklı pazarlama yaklaşımlarını denemenize ve alternatif seçeneklerin daha iyi bir sonuç verip vermediğini görmenize yardımcı olur.
